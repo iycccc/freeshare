@@ -3,7 +3,7 @@
 
 |公众号|微信|
 |:---:|:--:|
-|全网资源助手（ID:qwzyzs）|quanwangziyuanzs|
+|[全网资源助手（ID:qwzyzs）]()|[quanwangziyuanzs]()|
 ## 工具下载
 **个人常用软件：**
 
