@@ -37,5 +37,3 @@ https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Pawdroid/Free-serv
 https://raw.githubusercontent.com/jinqians/free/main/jinqians.txt
 
 https://raw.githubusercontent.com/freenodes/freenodes/main/clash.yaml
-
-https://jiang.netlify.com/
